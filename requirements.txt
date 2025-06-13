@@ -1,0 +1,10 @@
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-readers-file
+
+# slackbot
+slackclient
+slackeventsapi
+python-dotenv
+flask
